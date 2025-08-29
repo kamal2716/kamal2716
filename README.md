@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamal2716
 - 👀 I’m interested in app developing and DS
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and flutter
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me @kamaleshga@gmail.com
 - 😄 Pronouns: he/him
